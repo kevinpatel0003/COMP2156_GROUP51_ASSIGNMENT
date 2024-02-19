@@ -1,0 +1,9 @@
+Collaboration and Communication: DevOps emphasizes strong collaboration and communication between traditionally siloed development and operations teams. This collaboration helps streamline the software delivery process, leading to faster and more efficient development cycles.
+
+Automation: Automation is a fundamental aspect of DevOps. By automating repetitive tasks, such as code builds, testing, and deployment processes, teams can achieve consistency, reduce errors, and speed up the overall development pipeline. Continuous Integration (CI) and Continuous Deployment (CD) are common practices within DevOps that leverage automation.
+
+Continuous Integration (CI): CI is a DevOps practice where developers regularly integrate their code changes into a central repository. Automated builds and tests are triggered with each integration, allowing teams to quickly identify and address issues early in the development process.
+
+Continuous Deployment (CD): CD extends the principles of CI by automating the deployment of code changes to production environments. This practice enables frequent and reliable releases, reducing the time it takes to deliver new features or bug fixes to end-users.
+
+Infrastructure as Code (IaC): DevOps promotes the use of Infrastructure as Code, where infrastructure configurations are defined and managed through code. This approach allows for version control, repeatability, and consistency in setting up and managing infrastructure, whether it's on-premises or in the cloud.
