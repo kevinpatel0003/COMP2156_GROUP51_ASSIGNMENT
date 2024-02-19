@@ -7,3 +7,4 @@ he course would cover the importance of monitoring and logging in a DevOps envir
  There would likely be a focus on integrating security practices into the DevOps workflow, including code scanning, vulnerability assessments, and compliance checks
  A DevOps course typically involves hands-on projects and case studies where students apply their knowledge and skills to real-world scenarios.
  A DevOps course typically involves hands-on projects and case studies where students apply their knowledge and skills to real-world scenarios. This could include setting up CI/CD pipelines, automating infrastructure deployment, and troubleshooting issues in a DevOps environment.
+ Students would learn about the concept of treating infrastructure as code and using tools like Terraform or AWS CloudFormation to provision and manage infrastructure resources programmatically.

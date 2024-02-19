@@ -7,3 +7,4 @@ Students would learn about the concept of treating infrastructure as code and us
  This leads to fewer defects, improved stability, and a better overall user experience
   By automating repetitive tasks, streamlining processes, and eliminating manual interventions, DevOps engineering enables teams to focus more on value-added activities. This improves productivity and allows organizations to make better use of their resources.
   By optimizing processes, reducing manual effort, and minimizing downtime, DevOps engineering can lead to cost savings for organizations. This includes savings in infrastructure costs, labor costs, and potential revenue losses due to downtime or defects.
+   DevOps is not just a set of practices but also a cultural mindset that emphasizes continuous improvement and learning. By embracing feedback, analyzing metrics, and iterating on processes, teams can continuously enhance their practices and deliver greater value to customers.
