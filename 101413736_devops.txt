@@ -3,3 +3,4 @@ Students would learn about the various tools and technologies commonly used in D
 The course would cover the concepts and practices of CI/CD pipelines, including building, testing, and deploying code automatically and continuously
 Students would learn how to set up CI/CD pipelines using tools like Jenkins, GitLab CI/CD, or CircleCI.
 Students would learn about the concept of treating infrastructure as code and using tools like Terraform or AWS CloudFormation to provision and manage infrastructure resources programmatically.
+he course would cover the importance of monitoring and logging in a DevOps environment. Students would learn about tools like Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), and Splunk for monitoring, logging, and analyzing system and application metrics.
