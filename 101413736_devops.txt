@@ -2,3 +2,4 @@ Comp 2156: devOps Course
 Students would learn about the various tools and technologies commonly used in DevOps practices
 The course would cover the concepts and practices of CI/CD pipelines, including building, testing, and deploying code automatically and continuously
 Students would learn how to set up CI/CD pipelines using tools like Jenkins, GitLab CI/CD, or CircleCI.
+Students would learn about the concept of treating infrastructure as code and using tools like Terraform or AWS CloudFormation to provision and manage infrastructure resources programmatically.
