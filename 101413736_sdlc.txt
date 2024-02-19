@@ -4,3 +4,4 @@ This rapid delivery cycle enables businesses to respond to market demands faster
 Students would learn about the concept of treating infrastructure as code and using tools like Terraform or AWS CloudFormation to provision and manage infrastructure resources programmatically.
  This proactive approach to risk management reduces the likelihood of critical failures and minimizes the impact of incidents on the business.
  Through automation, testing, and monitoring, DevOps helps ensure that software is thoroughly tested and validated throughout the development lifecycle
+ This leads to fewer defects, improved stability, and a better overall user experience
