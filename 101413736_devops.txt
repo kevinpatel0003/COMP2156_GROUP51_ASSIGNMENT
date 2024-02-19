@@ -1,2 +1,3 @@
 Comp 2156: devOps Course
 Students would learn about the various tools and technologies commonly used in DevOps practices
+The course would cover the concepts and practices of CI/CD pipelines, including building, testing, and deploying code automatically and continuously
