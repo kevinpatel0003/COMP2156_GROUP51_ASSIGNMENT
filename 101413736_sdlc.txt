@@ -1,3 +1,4 @@
 Importantance of learning DevOps engineer in software development. 
 DevOps practices emphasize automation, continuous integration, and continuous delivery (CI/CD), allowing organizations to release software updates more frequently and reliably.
 This rapid delivery cycle enables businesses to respond to market demands faster and stay competitive.
+Students would learn about the concept of treating infrastructure as code and using tools like Terraform or AWS CloudFormation to provision and manage infrastructure resources programmatically.
