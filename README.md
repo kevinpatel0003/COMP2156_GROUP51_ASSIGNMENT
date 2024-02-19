@@ -6,5 +6,4 @@
 #####
 101449877-gb.txt - information about the George brown college 
 
-
 #### 101449993- Vrutti Patel 
