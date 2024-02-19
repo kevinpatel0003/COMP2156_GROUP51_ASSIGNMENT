@@ -1,1 +1,2 @@
 Comp 2156: devOps Course
+Students would learn about the various tools and technologies commonly used in DevOps practices
